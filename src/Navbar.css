@@ -1,0 +1,33 @@
+.nav1 {
+    color: white;
+    background-color: #f79cc6;
+    padding: 2%;
+    top: 0;
+    width: 100%;
+  }
+
+.navi {
+    margin: 1%;
+    color: white;
+}
+
+
+.formulario {
+  display: flex; flex-direction: column;
+}
+
+input {
+  margin: 1%;
+  width: 60%;
+  align-self: center;
+}
+
+.descripcion{
+  height: 10em;
+}
+
+button {
+  width: 8em;
+  background-color: #f79cc6;
+  align-self: center;
+}
